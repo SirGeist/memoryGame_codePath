@@ -1,0 +1,132 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: slategrey;
+  color: white;
+}
+
+p{
+  margin-left: 50px;
+  font-size: 20px;
+}
+
+h1 {
+  font-style: italic;    
+  color: #000000;        
+  font-family: verdana, arial, sans-serif;
+  margin-left: 160px;
+    
+  font-size: 55px;
+     
+    
+    font-weight:700;
+  
+}
+
+button{
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#startAndEnd > button{
+  border-radius: 100px;
+  margin-left: 265px;
+  margin-top: 30px;
+  width: 100px;
+  height: 100px;   
+  font-size:14px;
+  font-weight:1000;
+}
+
+#gameButtonArea > button{
+  width:200px;
+  height:200px;
+  margin:2px;
+  margin-top: 45px;
+  border-radius: 50px;
+}
+
+.hidden{
+  display: none;
+}
+
+
+/* Default colors of the buttons*/
+#button1{
+  background: lightgreen;
+}
+
+#button2{
+  background: lightblue;
+}
+
+#button3{
+  background: pink;
+}
+
+#button4{
+  background: lightyellow;
+}
+
+#button5{
+  background: orange;
+}
+
+#button6{
+  background: lavender;
+}
+
+/*When the user clicks the button, image will appear*/
+#button1:active{
+  background-image: url('https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2FcircleTest.jpeg?v=1616376383166');
+  background-size:cover;
+}
+
+#button2:active{
+  background-image: url('https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2Fsquare.jpg?v=1616377540713');
+  background-size:cover;
+}
+
+#button3:active{
+  background-image: url('https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2FbetterHex.jpg?v=1616450394394');
+  background-size:cover;
+}
+
+#button4:active{
+  background-image: url('https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2Fpentagon.jpeg?v=1616377856875');
+  background-size:cover;
+}
+
+#button5:active{
+  background-image: url('https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2Fgoodheart.jpg?v=1616450599473');
+  background-size:cover;
+}
+
+#button6:active{
+  background-image: url('https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2F34-342840_kite-clipart-diamond-shaped-object-triangle-hd-png.png?v=1616450827483');
+  background-size:cover;
+}
+
+/*When the replay occurs, light up the colors*/
+#button1.lit{
+  background: green;
+}
+#button2.lit{
+  background: blue;
+}
+#button3.lit{
+  background: red;
+}
+#button4.lit{
+  background: yellow;
+}
+#button5.lit{
+  background: gold;
+}
+#button6.lit{
+  background: purple;
+}
+
+
