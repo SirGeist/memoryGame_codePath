@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hello!</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1>Test Your Memory!!!</h1>
+    
+    <p>
+       Welcome to the game! Repeat back the pattern by pressing buttons. You have 60 seconds once you start! 
+      
+    </p>
+    
+    <div id="timer"></div>
+    <div id="lives"></div>
+    <div id="startAndEnd">
+      
+    
+      
+    <!-- Player loses game after 60 secs after clicking on the start button -->
+    <button id="startBtn" onclick="startGame()">
+      Start
+    </button>
+    
+    <!-- Timer resets after player clicks the stop button, and game stops-->
+    <button id="stopBtn" class="hidden" onclick="stopGame()">
+      Stop  
+    </button>
+    </div>
+    
+    <div id="gameButtonArea">
+      
+      <!-- Audio files for buttons1-6 respectively-->
+      <audio src="https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2F68437__pinkyfinger__piano-a.wav?v=1616443496862" id ="myAudio1"></audio>
+      <audio src="https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2F68439__pinkyfinger__piano-bb.wav?v=1616443500016" id ="myAudio2"></audio>
+      <audio src="https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2F68440__pinkyfinger__piano-c.wav?v=1616443500902" id ="myAudio3"></audio>
+      <audio src="https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2F68441__pinkyfinger__piano-c.wav?v=1616443505666" id ="myAudio4"></audio>
+      <audio src="https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2F68443__pinkyfinger__piano-e.wav?v=1616443506195" id ="myAudio5"></audio>
+      <audio src="https://cdn.glitch.com/488edf5e-d1d6-41ce-a407-a16c32744916%2F68442__pinkyfinger__piano-d.wav?v=1616443507836" id ="myAudio6"></audio>
+      
+      
+      <!-- Button1-6; working with mouseclicks-->
+      <button id="button1" onmousedown="playMyAudio(1)" onmouseup="stopMyAudio(1)" onclick="guess(1)">
+      </button>
+      
+      
+      <button id="button2"  onmousedown="playMyAudio(2)" onmouseup="stopMyAudio(2)" onclick="guess(2)">
+      </button>
+      
+      
+      <button id="button3"  onmousedown="playMyAudio(3)" onmouseup="stopMyAudio(3)" onclick="guess(3)">
+      </button>
+      
+      
+      <button id="button4" onmousedown="playMyAudio(4)" onmouseup="stopMyAudio(4)" onclick="guess(4)">
+      </button>
+      
+      
+      <button id="button5" onmousedown="playMyAudio(5)" onmouseup="stopMyAudio(5)" onclick="guess(5)">
+      </button>
+     
+      
+      <button id="button6" onmousedown="playMyAudio(6)" onmouseup="stopMyAudio(6)" onclick="guess(6)">
+      </button>
+      
+    </div>
+    
+    
+  </body>
+</html>
