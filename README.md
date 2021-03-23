@@ -40,8 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-1.Displaying the hidden images
-![](http://g.recordit.co/pJSwIpS1i8.gif) 
+![1. Display the hidden images](http://g.recordit.co/pJSwIpS1i8.gif) 
 
 2. Lighting the buttons up
 ![](http://g.recordit.co/XhOskAf8WV.gif)
