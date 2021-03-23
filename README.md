@@ -56,7 +56,8 @@ Here's a walkthrough of implemented user stories:
 [https://programminghead.com/how-to-play-audio-in-html-using-javascript/]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-[I would say that the most challenging aspect of this project was trying to adapt to switching between styles. For the most part, I did not
+
+I would say that the most challenging aspect of this project was trying to adapt to switching between styles. For the most part, I did not
 encounter many issues when I was working with the JavaScript area. When I worked through the HTML and CSS-styles, I was unfamiliar with their 
 syntax. My knowledge of C++ and Java would sometimes conflict as I work through creating the memory game. With the use of the referenced sites 
 and the very detailed walkthrough, I was able to mitigate this issue and progress at a steady pace. As practice makes perfect, more encounters 
@@ -64,22 +65,22 @@ with this type of programming will most definitely remove this issue. For the op
 I had trouble figuring out how to stop the timer from continual decreasing after the game was done. In some instances, the timer would stop, but
 it would not reset properly. Eventually I did solve this issue. Other than that problem, the rest of the project was fairly easy to follow along. 
 It was very fascinating to see how each piece of code was displayed in real-time. I would consider this project an excellent assignment for beginners
-who would loves web programming.]
+who would loves web programming.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
 
-[I have a few questions that came up when I was working on the assignment. To begin with, how do backdoors of a website work? Also, how difficult is it for
+I have a few questions that came up when I was working on the assignment. To begin with, how do backdoors of a website work? Also, how difficult is it for
 web developers to patch these backdoors? Finally, how often do web developers from a company work as a team when completing an assignment, and how often are
 assignments assigned for a single individual to complete? The reason I asked about the first two questions is because a few weeks prior, I heard that a website 
 that I had often visited had been breached. Apparently, users can bypass the paid subscription by installing a third-party addon which is openly available. To 
-this day, the addon is still working. Thus, I always wondered why this website’s issue still exists.]
+this day, the addon is still working. Thus, I always wondered why this website’s issue still exists.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
 
-[First and foremost, what I want to do is to optimize the randomized pattern. I believe that current solution that I have is redundant and space-consuming, but I can’t figure out another solution at the moment. 
+First and foremost, what I want to do is to optimize the randomized pattern. I believe that current solution that I have is redundant and space-consuming, but I can’t figure out another solution at the moment. 
 Also, I used two switch statements to differentiate between the button sounds. I also feel that this method is redundant and could be simplified even further. Lastly, I would like to further research about and 
 modify the interface of the memory game. While I am a beginner at web developing, the memory game looks too dated for my liking. I would use this extra time to tinker around the html page to see if I could make 
-the game visually appealing. I would consider adding visual effects whenever the player wins, loses, or gets an answer wrong. Adding an alert sound effect whenever the timer gets close to zero would be appealing as well.]
+the game visually appealing. I would consider adding visual effects whenever the player wins, loses, or gets an answer wrong. Adding an alert sound effect whenever the timer gets close to zero would be appealing as well.
 
 
 
