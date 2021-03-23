@@ -40,23 +40,35 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![1. Display the hidden images](http://g.recordit.co/pJSwIpS1i8.gif) 
+1. Displaying the hidden images:
+![](http://g.recordit.co/pJSwIpS1i8.gif) 
 
-2. Lighting the buttons up
+
+
+2. Lighting the buttons up:
 ![](http://g.recordit.co/XhOskAf8WV.gif)
 
-3. 3 Lives
+
+
+3. 3 Lives:
 ![](http://g.recordit.co/OsSFI8dmMP.gif)
 
-4. Timer runs out
+
+
+4. Timer runs out:
 ![](http://g.recordit.co/DOMmPEjQ9O.gif)
 
-5. Winning the game
+
+
+5. Winning the game:
 ![](http://g.recordit.co/6JVEbjxWBj.gif)
 
-6. Testing the stop button
+
+
+6. Testing the stop button:
 ![](http://g.recordit.co/iAwlK1lizR.gif)
 
+ 
  
 
 ## Reflection Questions
