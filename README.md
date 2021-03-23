@@ -4,7 +4,7 @@ Test Your Memory!!! is a Light & Sound Memory game to apply for CodePath's SITE 
 
 Submitted by: Peter Huynh
 
-Time spent: 8 active hours spent in total; 6 inactive hours
+Time spent: 8 active hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/arrow-goldenrod-guanaco?path=README.md%3A1%3A0)
 
@@ -56,7 +56,6 @@ Here's a walkthrough of implemented user stories:
 [https://programminghead.com/how-to-play-audio-in-html-using-javascript/]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-
 [I would say that the most challenging aspect of this project was trying to adapt to switching between styles. For the most part, I did not
 encounter many issues when I was working with the JavaScript area. When I worked through the HTML and CSS-styles, I was unfamiliar with their 
 syntax. My knowledge of C++ and Java would sometimes conflict as I work through creating the memory game. With the use of the referenced sites 
