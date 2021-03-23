@@ -39,12 +39,25 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-1. http://g.recordit.co/pJSwIpS1i8.gif (Displaying the hidden images)
-2. http://g.recordit.co/XhOskAf8WV.gif (Lighting the buttons up)
-3. http://g.recordit.co/OsSFI8dmMP.gif (3 lives)
-4. http://g.recordit.co/DOMmPEjQ9O.gif (Timer runs out)
-5. http://g.recordit.co/6JVEbjxWBj.gif (Winning the game)
-6. http://g.recordit.co/iAwlK1lizR.gif (Testing the stop button) 
+
+1.Displaying the hidden images
+![](http://g.recordit.co/pJSwIpS1i8.gif) 
+
+2. Lighting the buttons up
+![](http://g.recordit.co/XhOskAf8WV.gif)
+
+3. 3 Lives
+![](http://g.recordit.co/OsSFI8dmMP.gif)
+
+4. Timer runs out
+![](http://g.recordit.co/DOMmPEjQ9O.gif)
+
+5. Winning the game
+![](http://g.recordit.co/6JVEbjxWBj.gif)
+
+6. Testing the stop button
+![](http://g.recordit.co/iAwlK1lizR.gif)
+
  
 
 ## Reflection Questions
